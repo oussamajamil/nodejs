@@ -1,0 +1,9 @@
+{
+  "main": "index.ts",
+  "scripts": {
+   "dev":"clear && nodemon "
+  },
+  "dependencies": {
+    "zod": "^3.20.6"
+  }
+}
